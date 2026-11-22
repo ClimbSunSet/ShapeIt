@@ -1,3 +1,9 @@
+> **이 저장소에 대해**
+> 내일배움캠프 언리얼 트랙 팀 프로젝트의 원본 저장소(비공개)를 포트폴리오용으로 옮긴 사본입니다.
+> 저는 **UI/UX 및 Steam 세션 네트워크**(`Source/TeamProject/GameInstance/SISessionSubsystem`, `Source/TeamProject/UI/`)를 담당했습니다.
+> 에셋(`Content/`)은 용량 문제로 커밋 히스토리에서 제외했기 때문에 이 저장소만으로는 빌드되지 않습니다.
+> 플레이 영상: https://www.youtube.com/watch?v=s3C4Kk_HeGc
+
 # 8th-Team15-CH4-Project
 
 # Shape It! 🎨
